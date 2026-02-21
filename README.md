@@ -68,6 +68,3 @@ Hyperparameter tuning applied to improve model stability and performance.
 * Built a high-performance insurance risk classification model
 * Identified data-driven risk segments
 * Implemented a complete ML pipeline from preprocessing to model evaluation and clustering
-
-
-Which direction do you prefer?
